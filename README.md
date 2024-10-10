@@ -2,20 +2,38 @@
 
 ## Full-Stack Developer
 
-I have **3+ years** of experience in building dynamic web applications using:
+I am a passionate **Full-Stack Developer** with over **3 years of experience** in creating dynamic and user-friendly web applications. My goal is to leverage technology to solve real-world problems and enhance user experiences.
 
 ### 🔧 Tech Stack
-- **Frontend**: HTML, CSS, JavaScript, React.js, Sass, Bootstrap
-- **Backend**: Python, Django, Django REST Framework, PostgreSQL
+- **Frontend Technologies**:
+  - HTML
+  - CSS
+  - JavaScript
+  - React.js
+  - Sass
+  - Bootstrap
 
-I focus on creating scalable solutions and responsive designs, always eager to tackle new challenges!
+- **Backend Technologies**:
+  - Python
+  - Django
+  - Django REST Framework
+  - PostgreSQL
+
+- **Other Skills**:
+  - Java
+  - REST API development
+
+### 🚀 What I Offer
+- **Full-Stack Development**: Expertise in building both the client-side and server-side of applications.
+- **Responsive Design**: Crafting intuitive and visually appealing user interfaces.
+- **Scalable Solutions**: Developing robust back-end systems that handle high traffic efficiently.
 
 ### 🌐 Portfolio
-[starface-dev.onrender.com](https://starface-dev.onrender.com)
+Check out my work: [starface-dev.onrender.com](https://starface-dev.onrender.com)
 
-### 🔗 GitHub
-[github.com/starface77](https://github.com/starface77)
+### 🔗 Connect with Me
+Feel free to explore my projects on GitHub: [github.com/starface77](https://github.com/starface77)
 
 ---
 
-Feel free to reach out if you'd like to collaborate or learn more!
+I'm always eager to learn new technologies and collaborate on exciting projects. Let's connect and create something amazing together!
