@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   
-  <img src="https://readme-typing-animator.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1D9BF0&center=true&vCenter=true&width=700&height=60&lines=DANIKOV;Independent+Researcher;AI+Architecture;Systems+Reverse+Engineering" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1D9BF0&center=true&vCenter=true&width=700&lines=DANIKOV;Independent+Researcher;AI+Architecture;Systems+Reverse+Engineering" alt="Typing Animation" />
 
   <p><em>Focusing on Amortized Inference, Cognitive AI Architectures, and Structural Program Analysis</em></p>
 
@@ -27,7 +27,7 @@ Crystallizing the boundary between expensive probabilistic reasoning and zero-co
 * **Lifelong Learning:** Research into multi-tier memory systems (Episodic, Semantic, Factual, Graph) utilizing memory crystallization and "sleep-phase" consolidation to prevent catastrophic forgetting.
 
 ### 🛡️ Bytecode Deobfuscation & Reverse Engineering
-* **Semantic Analysis:** Development of agent-driven methodologies for systemic decompilation of heavily obfuscated Java environments, utilizing AST manipulation for variable resolution without rely on graphical tools.
+* **Semantic Analysis:** Development of agent-driven methodologies for systemic decompilation of heavily obfuscated Java environments, utilizing AST manipulation for variable resolution without relying on graphical tools.
 * **Low-Level Protocol Optimization:** Analysis of DPI evasion methods and implementation of secure, stealth routing methodologies (Reality, VLESS).
 
 ---
