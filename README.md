@@ -37,12 +37,12 @@ Crystallizing the boundary between expensive probabilistic reasoning and zero-co
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><img src="https://img.icons8.com/neon/26/artificial-intelligence.png" alt="icon"/> NARE (Neuro-Adaptive Engine)</h4>
+      <h4>🧠 NARE (Neuro-Adaptive Engine)</h4>
       <p>An experimental cognitive framework that compiles high-dimensional LLM reasoning trajectories into secure, executable procedural reflexes.</p>
       <a href="https://github.com/starface77/Neuro-Adaptive-Reasoning-Engine"><img src="https://img.shields.io/github/last-commit/starface77/Neuro-Adaptive-Reasoning-Engine?style=flat-square&color=blue" alt="Last Commit" /></a>
     </td>
     <td width="50%" valign="top">
-      <h4><img src="https://img.icons8.com/neon/26/console.png" alt="icon"/> CLI Semantic Deobfuscator</h4>
+      <h4>📟 CLI Semantic Deobfuscator</h4>
       <p>A native, terminal-centric agent for autonomous, agent-driven mapping and deobfuscation of JVM architectures.</p>
       <img src="https://img.shields.io/badge/status-active_research-orange?style=flat-square" alt="Status" />
     </td>
