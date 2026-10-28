@@ -1,4 +1,4 @@
-# Doniyor
+# Danikov
 
 Founder of **Sharrowkin**, an AI coding app that remembers your project. Built with **Nare Labs** in Uzbekistan.
 
